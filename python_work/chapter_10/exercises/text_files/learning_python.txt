@@ -1,0 +1,6 @@
+In Python, you can write programmes to do just about anything.
+In Python, you can use variables, lists, tuples, dictionaries, and ordered dictionaries to store data.
+In Python, you can also use loops, conditionals, functions, and classes to perform various tasks using this data.
+In Python, you can also read data from and write data to files.
+In Python, you can also handle exceptions or errors generated during runtime to make your programmes more robust.
+In Python, you can make a game, a data visualization, or a web app.
